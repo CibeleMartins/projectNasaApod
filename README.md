@@ -20,6 +20,7 @@
 </ul>
 
 <h2>GitHubs Pages é logo ali...</h2>
+<br>
 <img src="./media/apodNasaPagess.gif">
 
 
