@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+* {
+   padding: 0;
+   margin: 0;
+}
+
+body {
+   width: 100%;
+   height: 100vh;
+   background-image: url("./img/img2.jpg");
+   background-size:100% 100%;
+   background-attachment: fixed;
+}
+
+.container {
+   display: flex;
+
+   
+}
+
+.title {
+   width: 100%;
+   height: 250px;
+   color: aliceblue;
+   font-family: 'Noto Sans', sans-serif;
+   flex-direction: column;
+   align-items: center;
+   text-align: center;
+   font-size: 30px;
+   text-shadow: 0 0 20px  aliceblue;
+   
+}
+
+
+#form {
+   width: 100%;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   
+   
+}
+
+#input {
+   width: 200px;
+   height: 20px;
+   font-family: 'Noto Sans', sans-serif;
+   outline: none;
+   box-shadow: 1px 1px 10px 3px aliceblue;
+   border-radius: 5px;
+   margin-top: 30px;
+}
+
+#search {
+   width: 150px;
+   height: 22px;
+   font-family: 'Noto Sans', sans-serif;
+   box-shadow: 1px 1px 15px 3px aliceblue;
+   border-radius: 5px;
+   margin-top: 30px;
+   background-color: white;
+
+}
+
+
+#search:hover {
+   cursor: pointer;
+   background-color: rgba(240, 248, 255, 0.459);
+}
+
+#container2 {
+   width: 100%;
+   height: 100%;
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+   justify-content: space-evenly;
+   display: none;
+   
+}
+
+
+#video {
+   width: 600px;
+   height: 300px;
+   margin-bottom: 20px;
+   border-radius: 5px;
+   box-shadow: 1px 1px 10px 3px aliceblue ;
+   display: none;
+   
+}
+
+
+
+#textoExplanation{
+   width: 50%;
+   height: auto;
+   font-family: 'Noto Sans', sans-serif;
+   color: aliceblue;
+   text-shadow: 0 0 15px  aliceblue;
+   text-align: center;
+   background-color: rgba(0, 0, 0, 0.37);
+   border-radius: 5px;
+   padding: 20px;
+
+      
+}
+
+
+
+#img {
+   width: 600px;
+   height: 300px;
+   border-radius: 5px;
+   box-shadow: 1px 1px 10px 3px aliceblue ;
+   display: none;
+   
+}
+
+
+
+#title1 {
+   width: 50%;
+   height: auto;
+   font-size: 30px;
+   font-family: 'Noto Sans', sans-serif;
+   color: aliceblue;
+   text-shadow: 0 0 15px  aliceblue;
+   text-align: center;
+   align-items: center;
+   background-color: rgba(0, 0, 0, 0.37);
+   
+}
+
+#rodape {
+   width: 100%;
+   height: 125px;
+   font-family: 'Noto Sans', sans-serif;
+   color: aliceblue;
+   text-shadow: 0 0 15px  aliceblue;
+   background-color: rgba(0, 0, 0, 0.37);
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   
+   
+}
+
+#rodapeP {
+   margin-top: 20px;
+}
+
+
+#container3 {
+   width: 100%;
+   height: 200%;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+
+}
+
+#copyright {
+   font-size: 35px;
+   font-family: 'Noto Sans', sans-serif;
+   color: aliceblue;
+   text-shadow: 0 0 15px  aliceblue;
+   background-color: rgba(0, 0, 0, 0.37);
+   border-radius: 5px;
+   text-align: center;
+   align-items: center;
+   padding: 15px;
+   
+}
+
+#media {
+   font-size: 20px;
+   font-family: 'Noto Sans', sans-serif;
+   color: aliceblue;
+   text-shadow: 0 0 15px  aliceblue;
+   background-color: rgba(0, 0, 0, 0.37);
+   border-radius: 5px;
+   text-align: center;
+   align-items: center;
+   padding: 15px;
+
+}
+
+audio {
+   width: 350px;
+   height: 35px;
+   margin-top: 10px;
+   
+}
+
+#likedIn {
+   color: aliceblue;
+   text-shadow: 0 0 15px  aliceblue;
+   text-decoration: none;
+   cursor: pointer;
+}
+
+#imgGit {
+   width: 50px;
+   height: 50px;
+   margin-top: 15px;
+   
+}
+         
