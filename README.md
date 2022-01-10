@@ -12,10 +12,16 @@
   
 <img src="./media/apodNasa.gif">
 
-<h2>Documentação e referências</h2>
+<h2>Documentação e Referências</h2>
 
 <ul>
   <li><a href="https://api.nasa.gov/">Nasa OpenAPIs</a></li>
+  <li><a href="https://apod.nasa.gov/apod/astropix.html">Página APOD</a></li>
 </ul>
+
+<h2>GitHubs Pages é logo ali...</h2>
+<img src="./media/apodNasaPages.gif">
+
+
 
 
