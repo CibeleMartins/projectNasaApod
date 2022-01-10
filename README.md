@@ -12,4 +12,10 @@
   
 <img src="./media/apodNasa.gif">
 
+<h2>Documentação e referências</h2>
+
+<ul>
+  <li><a href="https://api.nasa.gov/">Nasa OpenAPIs</a></li>
+</ul>
+
 
