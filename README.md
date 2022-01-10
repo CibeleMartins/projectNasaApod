@@ -5,9 +5,11 @@
 <h2>Requisitos</h2>
 
   <ul>
-    <li>A aplicação recebe uma data como entrada do usuário a partir de um formulário</li> 
+    <li>A aplicação recebe uma data como entrada do usuário a partir de um formulário.</li> 
     <li>Com a entrada do usuário selecionada, ao clicar no botão "Descubra o cosmos" uma requisição é enviada à API da APOD para que seja obtida a foto ou vídeo referente a data escolhida.</li>
-    <li>A partir do retorno da API da APOD a página é manipulada para que os dados retornados sejam devidamente exibidos</li>
+    <li>A partir do retorno da API da APOD a página é manipulada para que os dados retornados sejam devidamente exibidos.</li>
   </ul>
   
 <img src="./media/apodNasa.gif">
+
+
