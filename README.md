@@ -10,4 +10,4 @@
     <li>A partir do retorno da API da APOD a página é manipulada para que os dados retornados sejam devidamente exibidos</li>
   </ul>
   
-<img src="./media/apodNasaGif.gif">
+<img src="./media/apodNasa.gif">
