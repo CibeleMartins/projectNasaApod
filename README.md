@@ -6,7 +6,7 @@
 <img src="./media/apodNasa.gif">
 <br>
 
-> Status do projeto: Em construção.
+> Status do projeto: Sujeito a melhorias.
 <h2>Requisitos</h2>
 
   <ul>
