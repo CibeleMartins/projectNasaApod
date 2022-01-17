@@ -1,11 +1,12 @@
 <h1>Projeto Sprint: APOD</h1>
 
-  <p>Neste projeto foram utilizadas as linguagens HTML, CSS, JavaScript e a biblioteca jQuery para desenvolver uma aplicação que realiza requisições para a API "Astronomy Picture of the Day" (APOD) da Nasa, com base nas datas inseridas em um input, e a partir disso, exibe na página uma imagem ou vídeo do espaço com a sua respectiva descrição.</p>
+  <p>Este projeto foi desenvolvido durante o bootcamp Resilia Educação - Web Dev Full Stack. Neste projeto foram utilizadas as linguagens HTML, CSS, JavaScript e a biblioteca jQuery para desenvolver uma aplicação que realiza requisições para a API "Astronomy Picture of the Day" (APOD) da Nasa, com base nas datas inseridas em um input, e a partir disso, exibe na página uma imagem ou vídeo do espaço com a sua respectiva descrição.</p>
   <br>
   
 <img src="./media/apodNasa.gif">
 <br>
 
+> Status do projeto: Em construção.
 <h2>Requisitos</h2>
 
   <ul>
